@@ -46,9 +46,7 @@ You can customize this project by:
 - The `touchmove` event's default behavior (scrolling) is prevented. This might not be desirable in all cases, especially if your page needs to scroll.
 - On touch devices, many elements may be created quickly as `touchmove` fires continuously. Consider throttling this for performance.
 
-## License
 
-[MIT License](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
